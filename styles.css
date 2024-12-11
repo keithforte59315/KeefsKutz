@@ -11,15 +11,15 @@
 
 .business-hours ul {
     list-style-type: none;
-    padding: 0; 
-    margin: 0; 
+    padding: 0px; 
+    margin: 0px; 
 }
 
 
 
 * {
-    margin: 0; 
-    padding: 0;
+    margin: 0px; 
+    padding: 0px;
 }
 
 body {
@@ -33,22 +33,23 @@ body {
     border-width: 1px;
     margin: 0 auto;
     background-color: white;
+    overflow: auto;
 }
 
 
 header {
     width: 100%;          
-    margin: 0;                
-	padding: 0;           
+    margin: 0px;                
+	padding: 0px;           
     text-align: center;
     border: none;         
     box-shadow: none;     
 }
 
 header .logo {
-    width: 100&;          
-    height: auto;           
-	display: block;     
+    width: 100px;          
+    height: 100px;           
+    display: block;     
 }
 
 nav {
@@ -140,7 +141,7 @@ tr:hover {
 
 /* Style for the gallery section */
 .gallery {
-    margin: 20px 0;
+    margin: 20px 0px;
 	text-align: center;
 }
 
